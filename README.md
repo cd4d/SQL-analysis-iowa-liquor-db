@@ -1,2 +1,2 @@
 # SQL-analysis-iowa-liquor-db
-A SQL analysis of public data on liquor sales in iowa
+An SQL analysis of [public data on liquor sales](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy) in Iowa
